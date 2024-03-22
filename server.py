@@ -11,8 +11,8 @@ PORT = 5555
 web_name = "Test Server"
 
 print("")
-print(f"IP:       {IP}")
-print(f"PORT:     {PORT}")
+print(f"IP      : {IP}")
+print(f"PORT    : {PORT}")
 print(f"web name: {web_name}")
 print("")
 
